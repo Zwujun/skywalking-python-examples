@@ -1,0 +1,8 @@
+apache-skywalking==0.8.0
+grpcio==1.66.0
+grpcio-tools==1.66.0
+packaging==24.1
+protobuf==5.27.3
+setuptools==73.0.1
+tornado==6.4.1
+wrapt==1.16.0

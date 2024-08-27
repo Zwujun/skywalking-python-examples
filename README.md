@@ -4,4 +4,4 @@
 
 #### Examples:
 
-- [ ] Tornado
+- [x] Tornado
